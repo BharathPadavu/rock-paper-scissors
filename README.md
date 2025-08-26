@@ -32,6 +32,20 @@ Challenge the computer, keep score, and enjoy a smooth UI with colorful visuals.
 
 ---
 
+⚠️ Limitations
+
+❌ Single player only – no multiplayer mode.
+
+❌ Basic visuals – lacks advanced animations or sound effects.
+
+❌ Limited responsiveness – adapts for smaller screens but not fully optimized for all devices.
+
+❌ No game history – results reset when the page is refreshed.
+
+Add this to final markdown
+
+---
+
 ## ⚡ Getting Started  
 
 ### 🔹 Run Locally

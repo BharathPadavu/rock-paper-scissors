@@ -28,7 +28,7 @@ Challenge the computer, keep score, and enjoy a smooth UI with colorful visuals.
 
 ## 📸 Screenshot  
 
-![Rock Paper Scissors Gameplay](Screenshots/screenshot-start.png)
+![Rock Paper Scissors Gameplay](screenshot.png)
 
 ---
 

@@ -1,7 +1,7 @@
 # 🎮 Rock Paper Scissors  
 
 A fun and interactive **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.  
-Challenge the computer, keep score, and enjoy a smooth UI with colorful visuals.  
+Challenge the computer, keep score, and enjoy a smooth **responsive UI**.  
 
 ---
 
@@ -12,9 +12,30 @@ Challenge the computer, keep score, and enjoy a smooth UI with colorful visuals.
 ---
 
 ## ✨ 🎯 Features  
-- 🤖 **Play against the computer** – the computer randomly picks Rock, Paper, or Scissors.  
-- 🏆 **Real-time score tracking** – your score and the computer’s score update instantly.  
-- 🎨 **Colorful and interactive UI** – hover effects and color-coded messages for win, lose, or draw.
+- 🤖 **Computer opponent** – computer makes random choices (Rock, Paper, or Scissors).  
+- 🏆 **Dynamic scoreboard** – keeps track of both **your score** and the **computer’s score**.  
+- 📢 **Result messages** – shows **“You Win”, “You Lost”, or “Game Draw”** with colors:  
+  - 🟩 Green = You Win  
+  - 🟦 Blue = You Lose  
+  - 🟨 Yellow = Draw  
+- 🎨 **Clean UI styling** – circular buttons with hover effects and shadows.  
+- 📱 **Responsive design** – works on desktop and adapts for mobile (down to 600px).  
+
+---
+
+## 📋 🎮 How to Play  
+1. Click on **Rock**, **Paper**, or **Scissors**.  
+2. The **computer randomly selects** its choice.  
+3. A message displays the **winner or draw**, color-coded for clarity.  
+4. The **scoreboard updates** automatically.  
+
+---
+
+## ⚠️ Limitations  
+- 🧍 **Single player only** – can’t play with another human.  
+- 🔄 **No persistence** – scores reset when refreshing the page.  
+- 🎭 **Minimal visuals** – no animations, sound effects, or advanced themes.  
+- 📏 **Limited responsiveness** – optimized only for screens ≥320px wide.  
 
 ---
 
@@ -25,23 +46,15 @@ Challenge the computer, keep score, and enjoy a smooth UI with colorful visuals.
 
 ---
 
-## 📸 Screenshot(Preview)
+## 📸 Screenshot (Preview)  
 
 ![Rock Paper Scissors Gameplay](Screenshots/screenshot-start.png)  
 
 ---
 
-## ⚠️ Limitations  
-- 🧍 Single player only – no multiplayer mode.  
-- 🎭 Basic visuals – lacks advanced animations or sound effects.  
-- 📏 Limited responsiveness – adapts for smaller screens but not fully optimized for all devices.  
-- 🔄 No game history – results reset when the page is refreshed.  
-
----
-
 ## ⚡ 💻 Getting Started  
 
-### 🔹 🏠 Run Locally  
+### 🔹 Run Locally  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/BharathPadavu/rock-paper-scissors.git

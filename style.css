@@ -76,7 +76,7 @@ img {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     h1 {
         font-size: 1.5rem;
         height: 4rem;
@@ -85,41 +85,8 @@ img {
 
     .choices {
         flex-wrap: wrap;
-        gap: 2rem;
-        margin-top: 3rem;
-    }
-
-    .choice {
-        height: 120px;
-        width: 120px;
-    }
-
-    img {
-        height: 100px;
-        width: 100px;
-    }
-
-    .score-board {
-        gap: 2rem;
-        font-size: 1.5rem;
-    }
-
-    #user-score,
-    #comp-score {
-        font-size: 3rem;
-    }
-
-    #msg {
-        width: 90%;
-        font-size: 1.5rem;
-    }
-}
-
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.2rem;
-        height: 3.5rem;
-        line-height: 3.5rem;
+        gap: 1.5rem;
+        margin-top: 2rem;
     }
 
     .choice {
@@ -144,6 +111,7 @@ img {
     }
 
     #msg {
+        width: 90%;
         font-size: 1.2rem;
         padding: 0.8rem;
     }
